@@ -62,7 +62,7 @@
 
 ###
 <hr>
-<p align="left">🎓 Education<br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 202) - CGPA: 9.11</p>
+<p align="left">🎓 Education<br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 2026) - CGPA: 9.11</p>
 <hr>
 
 
