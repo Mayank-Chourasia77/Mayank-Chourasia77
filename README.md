@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ About Me<br><br>I'm a 3rd-year Computer Engineering student who loves Data Science, ML, and AI. I enjoy web development, solving problems, and creating realistic sketches as a hobby</p>
+<p align="left">✨ About Me<br><br>I'm a 4th-year Computer Engineering student who loves Data Science, ML, and AI. I enjoy web development, solving problems, and creating realistic sketches as a hobby</p>
 <hr>
 
 
